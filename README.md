@@ -28,3 +28,6 @@ Styling was done using CSS Modules to scope styles locally to components. The UI
 This task was the most challenging and enriching of all. It not only tested my coding skills but also deepened my understanding of how modern real-time collaborative tools function. I had to think from both frontend and backend perspectives — how to maintain performance, reduce data conflicts, ensure smooth communication between users, and handle edge cases.
 
 By completing this task, I’ve learned how to manage shared application state across users in real time, how to build rich text editors, and how to integrate React with Socket.io and MongoDB. It significantly strengthened my knowledge of full-stack development and gave me the confidence to build scalable and collaborative applications for real-world use cases.
+
+##Output
+<img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/f0234b1c-03a1-45a6-9548-4bd3a522926d" />
